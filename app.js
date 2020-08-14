@@ -25,7 +25,7 @@ const swaggerOptions = {
                 description: "Development server"
             }
         },
-        host: 'http://localhost:1234',
+        host: 'localhost:1234',
         basePath: '/'                   // api base URL
     },
     apis: ['./docs/**/*.yaml'],         // path to .yaml
@@ -37,7 +37,9 @@ app.use('/docs', swaggerUi.serve, swaggerUi.setup(swaggerDocs))
 
 // Routes
 app.get('/', (req, res)=>{
-    res.status(200).json({message: 'Welcome home!'})
+    res.status(200).json({
+        message: 'Welcome home!'
+    })
 })
 
 app.get('/data', (req, res)=>{
@@ -47,6 +49,12 @@ app.get('/data', (req, res)=>{
             {name: 'Budi', age: 13},
             {name: 'Caca', age: 14}
         ]
+    })
+})
+
+app.post('/data', (req, res)=>{
+    res.status(200).json({
+        message: 'POST to /data'
     })
 })
 

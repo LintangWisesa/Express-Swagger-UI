@@ -1,0 +1,23 @@
+paths:
+  /data:
+    get:
+      tags:
+        - Data
+      summary: Get all data
+      produces:
+      - application/json
+      description: Get all data
+      responses:
+          '200':
+              description: 'Sukses!'
+
+    post:
+      tags:
+        - Data
+      summary: Post a new data
+      produces:
+      - application/json
+      description: Post a new data
+      responses:
+          '200':
+              description: 'Sukses!'

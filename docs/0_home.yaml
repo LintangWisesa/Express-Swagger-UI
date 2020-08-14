@@ -1,0 +1,12 @@
+paths:
+  /:
+    get:
+      tags:
+        - Homepage
+      summary: Default homepage route
+      produces:
+      - application/json
+      description: Homepage route
+      responses:
+          '200':
+              description: 'Sukses!'
