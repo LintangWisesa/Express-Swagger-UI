@@ -1,5 +1,7 @@
 const express = require('express')
 const app = express()
+app.use(express.json())
+
 const swaggerJsdoc = require('swagger-jsdoc')
 const swaggerUi = require('swagger-ui-express')
 
@@ -54,7 +56,8 @@ app.get('/data', (req, res)=>{
 
 app.post('/data', (req, res)=>{
     res.status(200).json({
-        message: 'POST to /data'
+        status: 'POST to /data',
+        body: req.body
     })
 })
 
