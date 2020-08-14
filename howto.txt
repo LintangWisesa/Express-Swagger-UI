@@ -1,0 +1,17 @@
+
+1. Initialize node.js application
+    $ npm init
+    $ npm i express
+
+2. Create a simple express app (app.js) with some routes
+
+3. Setup swagger
+    $ npm i swagger-jsdoc swagger-ui-express
+
+4. On app.js import swagger package
+
+=============
+
+splitting docs using yaml
+
+https://medium.com/the-andela-way/splitting-your-swagger-spec-into-multiple-files-in-a-node-project-2019575b0ced
