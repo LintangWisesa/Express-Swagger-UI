@@ -135,7 +135,7 @@
 <hr>
 
 #### <a href="https://lintangwisesa.github.io/me/">
-  <img style="margin-right:10px" align="left" alt="lintang bio" width="24px" src="https://avatars2.githubusercontent.com/u/30064213?s=460&u=6640a1c3d5c1892283e1c273006755de8d32fa59&v=4" /> Lintang Wisesa
+  <img style="margin-right:5px" align="left" alt="lintang bio" width="24px" src="https://avatars2.githubusercontent.com/u/30064213?s=460&u=6640a1c3d5c1892283e1c273006755de8d32fa59&v=4" /> Lintang Wisesa
   </a>
 
 <a href="mailto: lintangwisesa@ymail.com">
