@@ -1,0 +1,52 @@
+swagger: "2.0"
+info:
+  title: "Lintang API"
+  description: "Welcome to Lintang API documentations"
+  termsOfService: "http://google.com"
+  contact:
+    name: "Lintang Wisesa"
+    url: "http://google.com"
+    email: "lintangwisesa@ymail.com"
+  license:
+    name: "Apache 2.0"
+    url: "https://www.apache.org/licenses/LICENSE-2.0.html"
+  version: "0.1.0"
+host: 'localhost:8181'
+basePath: '/'
+
+paths:
+  /:
+    get:
+      tags:
+        - Public routes
+      summary: Lintang API Homepage
+      produces:
+      - text/html
+      description: Homepage route
+      responses:
+          '200':
+              description: 'Sukses!'
+  
+  /status:
+    get:
+      tags:
+        - Public routes
+      summary: Get status OK
+      produces:
+      - application/json
+      description: Homepage route
+      responses:
+          '200':
+              description: 'Sukses!'
+  
+  /login:
+    post:
+      tags:
+        - Public routes
+      summary: Admin Login
+      produces:
+      - application/json
+      description: Homepage route
+      responses:
+          '200':
+              description: 'Sukses!'

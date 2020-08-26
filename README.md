@@ -134,7 +134,9 @@
 
 <hr>
 
-#### 🍔 Lintang Wisesa
+#### <a href="https://lintangwisesa.github.io/me/">
+  <img style="margin-right:10px" align="left" alt="lintang bio" width="24px" src="https://avatars2.githubusercontent.com/u/30064213?s=460&u=6640a1c3d5c1892283e1c273006755de8d32fa59&v=4" /> Lintang Wisesa
+  </a>
 
 <a href="mailto: lintangwisesa@ymail.com">
   <img align="left" style="margin-right:10px" alt="lintang ymail" width="22px" src="https://camo.githubusercontent.com/b6e5ff081d7552ec05656de193794847e14d47ad/68747470733a2f2f732e79696d672e636f6d2f63762f61706976322f6d79632f6d61696c2f4d61696c5f694f535f6170705f69636f6e2e706e67" />
@@ -149,7 +151,7 @@
 </a>
 
 <a href="https://www.youtube.com/user/lintangbagus">
-  <img style="margin-right:10px" align="left" alt="lintang youtube" width="29px" src="https://camo.githubusercontent.com/5b55cea011025699edf565f0eb25a6acc4e3e6a4/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f70726f78792f4852635f6c617a7378637338416f626f44315f5368527750326b3157514165454b5455556d325946716663586853336d386b6a6b4f4e6a6e4e7447786563545a584b4648584b526475675872305a78447659664469577a50434d5343466953495a72475a6b564f72563256664f46302d4a4255" />
+  <img style="margin-right:10px" align="left" alt="lintang youtube" width="29px" src="https://www.pinclipart.com/picdir/big/55-557137_a-quiet-drifter-takes-a-janitorial-job-at.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/lintangwisesa/">
@@ -162,8 +164,4 @@
 
 <a href="https://www.hackster.io/lintangwisesa">
   <img style="margin-right:10px" align="left" alt="lintang hackster" width="23px" src="https://user-images.githubusercontent.com/10383395/49821324-358fa080-fda0-11e8-8b00-def2a67fc598.png" />
-</a>
-
-<a href="https://lintangwisesa.github.io/me/">
-  <img style="margin-right:10px" align="left" alt="lintang bio" width="24px" src="https://avatars2.githubusercontent.com/u/30064213?s=460&u=6640a1c3d5c1892283e1c273006755de8d32fa59&v=4" />
 </a>
